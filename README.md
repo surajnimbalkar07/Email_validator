@@ -23,13 +23,6 @@ To get a local copy up and running follow these simple steps.
 
 - Git installed on your local machine.
 
-### Clone the repository
-
-```sh
-git clone https://github.com/surajnimbalkar07/Email_validator.git
-cd Email_validator
-
-
 ## Usage
 
 
@@ -49,3 +42,12 @@ email-validator/
 ├── index.js
 ├── style.css
 ├── README.md
+
+
+### Clone the repository
+
+```sh
+git clone https://github.com/surajnimbalkar07/Email_validator.git
+cd Email_validator
+
+
