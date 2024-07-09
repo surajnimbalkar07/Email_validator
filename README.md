@@ -29,6 +29,13 @@ To get a local copy up and running follow these simple steps.
 Open index.html in your browser to use the email validator.
 
 
+### Clone the repository
+
+```sh
+git clone https://github.com/surajnimbalkar07/Email_validator.git
+cd Email_validator
+
+
 ### Project stucture
 
 email-validator/
@@ -42,12 +49,5 @@ email-validator/
 ├── index.js
 ├── style.css
 ├── README.md
-
-
-### Clone the repository
-
-```sh
-git clone https://github.com/surajnimbalkar07/Email_validator.git
-cd Email_validator
 
 
