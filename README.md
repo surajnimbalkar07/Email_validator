@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps.
 Open index.html in your browser to use the email validator.
 
 
-## Project stucture
+### Project stucture
 
 email-validator/
 ├── .vscode/
