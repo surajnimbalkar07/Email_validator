@@ -1,6 +1,7 @@
 # Email Validator
 
 A simple email validator application.
+##note: there is some issue as home page is not opening at start so explore accordingly
 
 ## Table of Contents
 
